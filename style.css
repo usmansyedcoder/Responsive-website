@@ -35,7 +35,7 @@
     width: 1349px;
     height: 500px;
     
-    background-image: url("bg.jpg");
+    background-image: url("Assets/images/bg.jpg");
     margin-top: 20px;
   }
   .div1 {
@@ -97,7 +97,7 @@
     width: 1348px;
     height: 700px;
     
-    background-image: url("bg2.jpg");
+    background-image: url("Assets/images/bg2.jpg");
     background-repeat: no-repeat;
     text-align: center;
     padding-top: 125px;

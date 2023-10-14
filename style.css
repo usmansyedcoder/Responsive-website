@@ -1,0 +1,133 @@
+  @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .section1{
+    width: 1349px;
+    
+  }
+  .textsec{
+    display: inline-block;
+    padding-left: 150px;
+    font-family: 'Lemon', serif;
+
+    
+  }
+
+  .section1 img{
+    display: inline-block;
+    margin-top: 70px;
+  }
+  #btn {
+    color: white;
+    border: 1px solid skyblue;
+    border-radius: 50px;
+    background-color: #50ccff;
+    padding: 10px 10px;
+    display: inline-block;
+    margin: 0px 150px;
+    width: 140px;
+  }
+  .section2 {
+    background-repeat: no-repeat;
+    width: 1349px;
+    height: 500px;
+    
+    background-image: url("bg.jpg");
+    margin-top: 20px;
+  }
+  .div1 {
+    display: inline-block;
+    padding-top:  170px;
+    padding-left: 240px;
+  }
+
+  .div2 {
+    display: inline-block;
+    margin-left: 70px;
+  }
+
+  .div3 {
+    display: inline-block;
+    margin-left: 70px;
+  }
+  .div1 h1 {
+    color: #50ccff;
+  }
+  .div2 h1 {
+    color: #50ccff;
+  }
+  .div3 h1 {
+    color: #50ccff;
+  }
+  .div1 h2,
+  p {
+    color: white;
+  }
+  .div2 h2,
+  p {
+    color: white;
+  }
+  .div3 h2,
+  p {
+    color: white;
+  }
+  .section3 {
+    width: 1348px;
+    height: 400px;
+    
+    text-align: center;
+    padding-top: 100px;
+  }
+  .section3 p {
+    color: black;
+  }
+  #btns {
+    color: white;
+    margin-top: 12px;
+    width: 125px;
+    border: 1px solid skyblue;
+    border-radius: 50px;
+    background-color: #50ccff;
+    padding: 10px 10px;
+  }
+  .section4 {
+    width: 1348px;
+    height: 700px;
+    
+    background-image: url("bg2.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 125px;
+  }
+  .img1 {
+    display: inline-block;
+    border: 5px dashed #50ccff;
+    width: 500px;
+    margin: 20px;
+    padding: 100px;
+
+  }
+  .img2 {
+    display: inline-block;
+    border: 5px dashed #50ccff;
+    width: 500px;
+    margin: 20px;
+    padding: 100px;
+  
+  }
+  .section4 h1{
+    color: white;
+  }
+  .img1 h2{
+    color: white;
+  }
+  
+  .img2 h2{
+    color: white;
+  }
+  footer{
+    color: white;
+  }
